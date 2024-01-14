@@ -1,0 +1,18 @@
+{
+    "profile": "./img/profile.png",
+    "email": "test@test.com",
+    "password": "test",
+    "companyName": "Herta Space Station",
+    "taxId": "000",
+    "fullName": "Herta",
+    "country": "Space",
+    "countryCode": "0",
+    "phoneNumber": "00000",
+    "website": "https://test.com",
+    "address": "Simulated Universe in Herta Space Station",
+    "stateProvince": "Space",
+    "subdistrict": "Space",
+    "cityDistrict": "Space",
+    "zipcode": "0"
+  }
+  
